@@ -35,11 +35,17 @@
 
 ### 6. [Fake GPS Detection (GOJEK)](https://github.com/benyamindariadi/machine-learning/tree/master/Fake%20GPS%20Detection%20(GOJEK))
 - **Context:** Among our drivers, there are drivers who use Fake GPS application to mock their location. This FGPS usage is unfair for other GOJEK drivers who work honestly. Hence, we would like to apply a machine learning model to classify whether a trip is being done using fake GPS or not based on their PING behavior.
-- **Project:** Builds models to predict class. 
+- **Project:** Builds models to predict fake order. 
 - **Algorithms:** Decision Tree,Random Forest, Support Vector Machine, K-Nearest Neighbors, Artificial Neural Networks.
 - **Dataset:** [Source.](https://www.kaggle.com/c/dsbootcamp10/data)
 - **Note:** The dataset consists of the order_id which is the unique key. Each order id consists of many data rows representing pings which will give 8 different informations (columns). So the 'usefull' informations (data) must be extracted from the pings on each order id. Data extracting dan preparation will located on df_train_cleaning.ipynb, and the cleaned datased saved on clean_df_train.csv. The ML's model performances will provide on MLs.ipynb. 
+**UPDATE**
+- **Project:** Builds models to predict fake order with **PyCaret** library. 
 
+### 7. [https://github.com/benyamindariadi/machine-learning/tree/master/weather%20dataset](https://github.com/benyamindariadi/machine-learning/tree/master/weather%20dataset)
+- **Context:** This dataset contains daily weather observations from numerous Australian weather stations.
+- **Project:** Predict whether tomorrow will be rain or not. I build this model with **PyCaret** library.
+- **Dataset:** [Source.](https://www.kaggle.com/jsphyg/weather-dataset-rattle-package)
 
 ## Prediction
 ### 1. [Hotel Booking Demand](https://github.com/benyamindariadi/machine-learning/tree/master/hotel-booking-demand)
