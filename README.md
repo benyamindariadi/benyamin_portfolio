@@ -1,5 +1,7 @@
 # My Portofolio
-
+**Hello, welcome to my portofolio page!
+This page contains some of the results of my work.
+Please look at the latest list to check my latest work in certain topic.** 
 
 ---
 ## Contents
