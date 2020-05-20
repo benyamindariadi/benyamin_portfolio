@@ -1,6 +1,15 @@
 # My Portofolio
 
 
+---
+## Contents
+- [Classification](#classification) - Projects related to datasets that have the purpose of predicting a state or class
+- [Prediction](#prediction) - projects related to models that aim to predict a continuous value
+- [Image](#image) - projects related to image datasets that are processed with deep learning
+- [Computer Vision](#computervision) - With topics about image and video processing (mostly use OpenCV)
+- [Text](#text) - With some topics about Natural language processing
+---
+
 ## Classification
 ### 1. [Categorical Peoples Interests](https://github.com/benyamindariadi/machine-learning/tree/master/clustering-categorical-peoples-interests)
 - **Context:** There are 4 groups/classes of people and 217 hobby's and interest questions
@@ -77,7 +86,7 @@
 - **Algorithm:** Deep Convolutional-Generative Adversarial Network.
 - **Dataset:** [Source.](https://www.kaggle.com/smeschke/four-shapes)
 
-## Computer Vision
+## ComputerVision
 ### 1. [Where's the ramyun(FLANN kd-tree OpenCV)](https://github.com/benyamindariadi/computer-vision/tree/master/Where's%20the%20ramyun(FLANN%20kd-tree))
 - **Project:** This simple code contains object detection using the FLANN kd-tree library. Here will be demonstrated ramyun detection among other instant noodle products.
 - **Algorithm:** FLANN kd-tree.
