@@ -39,8 +39,8 @@
 - **Algorithms:** Decision Tree,Random Forest, Support Vector Machine, K-Nearest Neighbors, Artificial Neural Networks.
 - **Dataset:** [Source.](https://www.kaggle.com/c/dsbootcamp10/data)
 - **Note:** The dataset consists of the order_id which is the unique key. Each order id consists of many data rows representing pings which will give 8 different informations (columns). So the 'usefull' informations (data) must be extracted from the pings on each order id. Data extracting dan preparation will located on df_train_cleaning.ipynb, and the cleaned datased saved on clean_df_train.csv. The ML's model performances will provide on MLs.ipynb. 
-**UPDATE**
-- **Project:** Builds models to predict fake order with **PyCaret** library. 
+- #### [UPDATE](https://github.com/benyamindariadi/machine-learning/tree/master/Fake%20GPS%20Detection%20(GOJEK))
+- **Project:** Builds models to predict fake order with **PyCaret** library.(pycaret.ipynb)
 
 ### 7. [https://github.com/benyamindariadi/machine-learning/tree/master/weather%20dataset](https://github.com/benyamindariadi/machine-learning/tree/master/weather%20dataset)
 - **Context:** This dataset contains daily weather observations from numerous Australian weather stations.
