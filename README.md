@@ -10,8 +10,8 @@ Please look at the latest list to check my latest work in certain topic.**
 - [Image](#image) - projects related to image datasets that are processed with deep learning
 - [Computer Vision](#computervision) - With topics about image and video processing (mostly use OpenCV)
 - [Text](#text) - With some topics about Natural language processing
-
 ---
+
 
 ## Classification
 ### 1. [Categorical Peoples Interests](https://github.com/benyamindariadi/machine-learning/tree/master/clustering-categorical-peoples-interests)
