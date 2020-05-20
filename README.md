@@ -72,7 +72,7 @@
 - **Dataset:** [Source.](https://www.kaggle.com/smeschke/four-shapes)
 
 ## Computer Vision
-### 1. [Where's the ramyun(FLANN kd-tree OpenCv)](https://github.com/benyamindariadi/computer-vision/tree/master/Where's%20the%20ramyun(FLANN%20kd-tree))
+### 1. [Where's the ramyun(FLANN kd-tree OpenCV)](https://github.com/benyamindariadi/computer-vision/tree/master/Where's%20the%20ramyun(FLANN%20kd-tree))
 - **Project:** This simple code contains object detection using the FLANN kd-tree library. Here will be demonstrated ramyun detection among other instant noodle products.
 - **Algorithm:** FLANN kd-tree.
 
