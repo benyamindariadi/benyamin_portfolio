@@ -10,6 +10,7 @@ Please look at the latest list to check my latest work in certain topic.**
 - [Image](#image) - projects related to image datasets that are processed with deep learning
 - [Computer Vision](#computervision) - With topics about image and video processing (mostly use OpenCV)
 - [Text](#text) - With some topics about Natural language processing
+
 ---
 
 ## Classification
@@ -53,7 +54,7 @@ Please look at the latest list to check my latest work in certain topic.**
 - #### [UPDATE](https://github.com/benyamindariadi/machine-learning/tree/master/Fake%20GPS%20Detection%20(GOJEK))
 - **Project:** Builds models to predict fake order with **PyCaret** library.(pycaret.ipynb)
 
-### 7. [https://github.com/benyamindariadi/machine-learning/tree/master/weather%20dataset](https://github.com/benyamindariadi/machine-learning/tree/master/weather%20dataset)
+### 7. [Weather Dataset](https://github.com/benyamindariadi/machine-learning/tree/master/weather%20dataset)
 - **Context:** This dataset contains daily weather observations from numerous Australian weather stations.
 - **Project:** Predict whether tomorrow will be rain or not. I build this model with **PyCaret** library.
 - **Dataset:** [Source.](https://www.kaggle.com/jsphyg/weather-dataset-rattle-package)
