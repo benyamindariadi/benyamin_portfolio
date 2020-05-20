@@ -8,8 +8,10 @@ Please look at the latest list to check my latest work in certain topic.**
 - [Classification](#classification) - Projects related to datasets that have the purpose of predicting a state or class
 - [Prediction](#prediction) - projects related to models that aim to predict a continuous value
 - [Image](#image) - projects related to image datasets that are processed with deep learning
-- [Computer Vision](#computervision) - With topics about image and video processing (mostly use OpenCV)
 - [Text](#text) - With some topics about Natural language processing
+- [Computer Vision](#computervision) - With topics about image and video processing (mostly use OpenCV)
+
+
 ---
 
 
