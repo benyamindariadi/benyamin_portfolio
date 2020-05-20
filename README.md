@@ -64,7 +64,7 @@
 - **Algorithms:** Convolutional Neural Networks, Artificial Neural Networks.
 - **Dataset:** [Source.](https://www.kaggle.com/smeschke/four-shapes)
 
-### 3. [Create New Stars!)](https://github.com/benyamindariadi/machine-learning/tree/master/Create%20New%20Stars!%20(DCGANs))
+### 3. [Create New Stars!](https://github.com/benyamindariadi/machine-learning/tree/master/Create%20New%20Stars!%20(DCGANs))
 - **Context:** I take the dataset from Four Shapes file. The dataset is same, but I only use one file to obtain one single shape which is star.
 - **Project:** I made the model to generate "fake" stars images. The model use DC-GANs method to optimize the variety of the result.
 - **Algorithms:** Deep Convolutional-Generative Adversarial Network.
