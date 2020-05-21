@@ -61,7 +61,7 @@ Please look at the latest list to check my latest work in certain topic.**
 - **Project:** Predict whether tomorrow will be rain or not. I build this model with **PyCaret** library.
 - **Dataset:** [Source.](https://www.kaggle.com/jsphyg/weather-dataset-rattle-package)
 
-## Prediction
+## Forecasting
 ### 1. [Hotel Booking Demand](https://github.com/benyamindariadi/machine-learning/tree/master/hotel-booking-demand)
 - **Context:** This data set contains booking information for a city hotel and a resort hotel, and includes information such as when the booking was made, length of stay, the number of adults, children, and/or babies, and the number of available parking spaces, among other things.
 - **Project:** Predict the number of booking.
