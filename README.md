@@ -56,7 +56,7 @@ Please look at the latest list to check my latest work in certain topic.**
 - #### [UPDATE](https://github.com/benyamindariadi/machine-learning/tree/master/Fake%20GPS%20Detection%20(GOJEK))
 - **Project:** Builds models to predict fake order with **PyCaret** library.(pycaret.ipynb)
 
-### 7. [Marketing Project](https://github.com/benyamindariadi/machine-learning/tree/master/Project-Marketing)
+### 7. [Marketing Project (Online Deployed)](https://github.com/benyamindariadi/machine-learning/tree/master/Project-Marketing)
 - **Context:** The data is related with direct marketing campaigns of a Portuguese banking institution. The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be ('yes') or not ('no') subscribed.
 - **Project:** Predict whether the potential clients will be subscribe a term deposit or not.
 - **Dataset:** [Source.](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing)
