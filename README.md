@@ -128,5 +128,5 @@ Please look at the latest list to check my latest work in certain topic.**
 
 ### 2. [ChatBot-TRANSFORMER](https://github.com/benyamindariadi/machine-learning/tree/master/ChatBot-TRANSFORMER)
 - **Project:** Create a ChatBot
-- **Algorithm:** Transformer.
+- **Algorithm:** [Transformer.](https://arxiv.org/abs/1706.03762)
 - **Dataset:** [Source.](https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html)
