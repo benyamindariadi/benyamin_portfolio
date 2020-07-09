@@ -125,3 +125,8 @@ Please look at the latest list to check my latest work in certain topic.**
 - **Project:** Predict the number of booking.
 - **Algorithm:** Bidirectional Recurrent Neural Networks (GRU).
 - **Dataset:** [Source.](https://www.kaggle.com/crowdflower/twitter-user-gender-classification)
+
+### 2. [ChatBot-TRANSFORMER](https://github.com/benyamindariadi/machine-learning/tree/master/ChatBot-TRANSFORMER)
+- **Project:** Create a ChatBot
+- **Algorithm:** Transformer.
+- **Dataset:** [Source.](https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html)
