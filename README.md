@@ -1,6 +1,6 @@
 # My Portfolio
 **Hello, welcome to my portfolio page!
-This page contains some of the results of my work.
+This page contains some of the result of my works.
 Please look at the latest list to check my latest work in certain topic.** 
 
 ---
