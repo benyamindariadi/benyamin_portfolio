@@ -122,7 +122,7 @@ Please look at the latest list to check my latest work in certain topic.**
 ## Text
 ### 1. [Gender Prediction (Bidirectional RNN-GloVe)](https://github.com/benyamindariadi/NLP/tree/master/Gender%20Prediction%20(Bidirectional%20RNN-GloVe))
 - **Context:** This model is created to predict the gender of Twitter users based on tweets and profile descriptions. The model uses GloVe pre-trained word vectors and GRU bidirectional architecture. In the notebook made several models with reference to tweets, profile descriptions and both (multi-inputs) to see the comparison of the model's performances.
-- **Project:** Predict the number of booking.
+- **Project:** Predict the gender of user based on their tweet.
 - **Algorithm:** Bidirectional Recurrent Neural Networks (GRU).
 - **Dataset:** [Source.](https://www.kaggle.com/crowdflower/twitter-user-gender-classification)
 
