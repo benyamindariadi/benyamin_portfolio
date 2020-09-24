@@ -117,7 +117,9 @@ Please look at the latest list to check my latest work in certain topic.**
 	  title={YOLOv3: An Incremental Improvement},  
 	  author={J Redmon, A Farhadi },
 	  year={2018}
-    
+ ### 4. [Count My Finger](https://github.com/benyamindariadi/computer-vision/tree/master/Count%20My%20Finger)
+- **Project:** This code is a demo of Convex hull algorithm that used for finger counter machine with OpenCV.
+- **Algorithm:** Convex hull.  
 
 ## Text
 ### 1. [Gender Prediction (Bidirectional RNN-GloVe)](https://github.com/benyamindariadi/NLP/tree/master/Gender%20Prediction%20(Bidirectional%20RNN-GloVe))
