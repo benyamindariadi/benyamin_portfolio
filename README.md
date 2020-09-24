@@ -118,7 +118,7 @@ Please look at the latest list to check my latest work in certain topic.**
 	  author={J Redmon, A Farhadi },
 	  year={2018}
 	  
- ### 4. [Count My Finger](https://github.com/benyamindariadi/computer-vision/tree/master/Count%20My%20Finger)
+### 4. [Count My Finger](https://github.com/benyamindariadi/computer-vision/tree/master/Count%20My%20Finger)
 - **Project:** This code is a demo of Convex hull algorithm that used for finger counter machine with OpenCV.
 - **Algorithm:** Convex hull.  
 
